@@ -4,7 +4,7 @@ I help cloud developers and architects cut through cloud-native complexity, adop
 
 🧠 With over 9 years of experience (yes, I started at 14), I currently work as a **Senior Cloud Solution Engineer at Oracle**, leading strategic PoCs and helping enterprise clients optimize microservices architectures with Kubernetes, DevOps, CI/CD, messaging, and cloud-native patterns.
 
-💡 Passionate about Java, AI, and emerging technologies, I’ve worked across ecosystems using Java, Python, Node.js, and more. I'm also active in the tech community as a speaker, DevRel contributor, and mentor — having spoken at events like **JavaOne, TDC, Microsoft Build, Oracle Cloud World DevTour, SouJava and among other**.
+💡 Passionate about Java, AI, and emerging technologies, I’ve worked across ecosystems using Java, Python, Node.js, and more. I'm also active in the tech community as a speaker, DevRel contributor, and mentor — having spoken at events like **JavaOne, TDC, Microsoft Build, Oracle Cloud World DevTour, SouJava and among others**.
 
 🧩 I build things using:
 - Java (Helidon, Spring, GraalVM)
