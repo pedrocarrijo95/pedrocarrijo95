@@ -1,6 +1,8 @@
 👋 Hey, I’m Pedro — also known as JavaBoy ⚡
 
-I help cloud developers and architects cut through cloud-native complexity, adopt the right tools, and make smart technical decisions to build high-performing, scalable systems.
+Pedro helps Java Developers focus on practical cloud-native and Al skills that enhance what they already do best: building smart and scalable solutions with Java.
+
+He enables them to stand out as trusted technical voices on their teams, position themselves as go-to references, lead key projects, make smart decisions, and gain visibility across the organization.
 
 🧠 With over 9 years of experience (yes, I started at 14), I currently work as a **Senior Cloud Solution Engineer at Oracle**, leading strategic PoCs and helping enterprise clients optimize microservices architectures with Kubernetes, DevOps, CI/CD, messaging, and cloud-native patterns.
 
@@ -11,6 +13,7 @@ I help cloud developers and architects cut through cloud-native complexity, adop
 - Kubernetes, DevOps, Containers
 - GenAI, LangChain4j, LLMs
 - Oracle Cloud, OpenAI, REST APIs
+- Among others...
 
 📚 I hold certifications in:
 - ✅ Kubernetes (KCNA, CKAD)
